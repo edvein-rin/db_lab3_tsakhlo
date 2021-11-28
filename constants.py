@@ -1,0 +1,5 @@
+username = 'postgres'
+password = 'admin'
+database = 'ramen_ratings'
+host = 'localhost'
+port = '5432'
